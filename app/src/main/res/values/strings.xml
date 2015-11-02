@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crocodile Assistant</string>
+    <string name="button_title">Next</string>
+    <string name="next_word">Next word</string>
+    <string name="hidden_word">*******</string>
+    <string name="level">level</string>
+    <string name="use_single">single word?</string>
+    <string name="low">low</string>
+    <string name="middle">middle</string>
+    <string name="high">high</string>
+</resources>
